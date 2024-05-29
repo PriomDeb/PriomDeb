@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://priomdeb.com](http://priomdeb.com)
 
-- 💬 Ask me about **Game Developing, Python Framework Tkinter**
+- 💬 Ask me about **Machine Learning, Deep Learning, Game Developing, Python Frameworks (Django, PyQT5, Tkinter, Flask)**
 
 - 📫 How to reach me **priom@priomdeb.com**
 
