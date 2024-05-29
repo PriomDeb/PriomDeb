@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priomdeb" alt="priomdeb" /></a> </p>
 
-- 🔭 I’m currently working on [Firebase Authentication in Python Using Tkinter UI](https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter)
+- 🔭 I’m currently working on [Video Editor Tool to Automate My Video Editing Task; Tech Stack: Python, FFMPEG, PyQT5](https://github.com/PriomDeb/Quick-Merge-Video)
 
 - 🌱 I’m currently learning **Unity 3D, Unreal Engine 5 for game developing and Flutter, Dart for android app developing**
 
